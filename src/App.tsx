@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <SalaryComponent isFiler={false} />
+      <SalaryComponent/>
     </>
   )
 }
